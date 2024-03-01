@@ -1,4 +1,4 @@
-Entity,Code,Year,avg_years_of_schooling
+Country,Code,Year,avg_years_of_schooling
 AFGHANISTAN,AFG,1870,0.01
 AFGHANISTAN,AFG,1875,0.01
 AFGHANISTAN,AFG,1880,0.01
